@@ -1,2 +1,2 @@
 # Jessi-html-portfolio
-Simple html birthday invite &amp; fav movies
+Simple html only: birthday invite &amp; fav movies
